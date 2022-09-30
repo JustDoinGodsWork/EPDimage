@@ -1,2 +1,2 @@
 # EPDimage
-https://my-json-server.typicode.com/Keshavkaushik14/EPDimage
+https://my-json-server.typicode.com/JustDoinGodsWork/EPDimage
