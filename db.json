@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Haldiraam Lajpat Nagar" },
-    { "id": 2, "title": "Haldiraam CP" },
-    { "id": 3, "title": "Haldiraam Saket" }
+    { "id": 1, "title": "Haldiram Lajpat Nagar" },
+    { "id": 2, "title": "Haldiram CP" },
+    { "id": 3, "title": "Haldiram Saket" }
   ],
   "comments": [
     { 
